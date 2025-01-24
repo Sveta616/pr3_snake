@@ -1,3 +1,0 @@
-﻿  Snake.cpp
-C:\Users\Professional\Desktop\Snake\Snake\Snake.cpp(188,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Snake.vcxproj -> C:\Users\Professional\Desktop\Snake\x64\Debug\Snake.exe
