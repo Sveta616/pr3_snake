@@ -1,0 +1,3 @@
+﻿  Sn.cpp
+C:\Users\st310-09\Desktop\Новая папка (2)\Sn\Sn.cpp(137,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sn.vcxproj -> C:\Users\st310-09\Desktop\Новая папка (2)\Sn\x64\Debug\Sn.exe
